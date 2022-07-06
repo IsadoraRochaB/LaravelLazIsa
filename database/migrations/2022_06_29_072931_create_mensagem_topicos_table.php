@@ -33,4 +33,8 @@ return new class extends Migration
     {
         Schema::dropIfExists('mensagem_topico');
     }
+<<<<<<< HEAD
 };
+=======
+};
+>>>>>>> 8d80cbb75bc8f2e56aa9e45a803b326109e6eaff

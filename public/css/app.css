@@ -1146,9 +1146,12 @@ select {
 .inline-flex {
   display: inline-flex;
 }
+<<<<<<< HEAD
 .table {
   display: table;
 }
+=======
+>>>>>>> 8d80cbb75bc8f2e56aa9e45a803b326109e6eaff
 .grid {
   display: grid;
 }
